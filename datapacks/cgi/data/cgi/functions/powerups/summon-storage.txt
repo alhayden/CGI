@@ -1,0 +1,12 @@
+
+## VIRUS
+/summon item ~ ~1 ~ {Item:{id:chicken_spawn_egg,Count:2,tag:{EntityTag:{id:armor_stand,CustomName:"\"Virus\"",Invisible:1b,Small:1b,NoGravity:1b,Marker:1b},display:{Name:"{\"text\":\"Virus\"}",Lore:["Waterproof up to -6 meters"]},CanPlaceOn:["#impermeable"]}},CustomName:"\"Power-Virus\""}
+## AdvancedVirus
+/summon item ~ ~1 ~ {Item:{id:mooshroom_spawn_egg,Count:1,tag:{EntityTag:{id:armor_stand,CustomName:"\"AdvancedVirus\"",Invisible:1b,Small:1b,NoGravity:1b,Marker:1b},display:{Name:"{\"text\":\"Advanced Virus\"}",Lore:["Four times the value,","at 32 times the cost!"]},CanPlaceOn:["#impermeable"]}},CustomName:"\"Power-AdvancedVirus\""}
+## ShortCircuit
+/summon item ~ ~1 ~ {Item:{id:wolf_spawn_egg,Count:3,tag:{EntityTag:{id:armor_stand,CustomName:"\"ShortCircuit\"",Invisible:1b,Small:1b,NoGravity:1b,Marker:1b},display:{Name:"{\"text\":\"Short Circuit\"}",Lore:["Four times the value,","at 32 times the cost!"]},CanPlaceOn:["#impermeable"]}},CustomName:"\"Power-ShortCircuit\""}
+## Remote Access
+/summon item ~ ~1 ~ {Item:{id:bow,Count:1,Damage:382,tag:{display:{Name:"{\"text\":\"Remote Access\"}",Lore:["To avoid injury:","do not aim at eyes or face"]}}},CustomName:"\"Power-RemoteAccess\""}
+/summon item ~ ~1 ~ {Item:{id:arrow,Count:3,tag:{display:{Name:"{\"text\":\"Remote Access Cartridge\"}"}}},CustomName:"\"Power-RemoteAccess\""}
+## FIREWALL
+/summon item ~ ~1 ~ {Item:{id:torch,Count:3,tag:{display:{Name:"{\"text\":\"Firewall\"}",Lore:["Warrenty void if existence is proven","","Existence void if warrenty is proven"]},CanPlaceOn:["#impermeable"]}},CustomName:"\"Power-Firewall\""}

@@ -1,0 +1,36 @@
+TODO
+====
+
+
+[ ] corruption field - redesign or remove
+[x] eggception
+[ ] surprise - change?
+[x] suicide chicken
+[ ] load backup file without block
+[ ] make trap floor more obvious
+[ ] map colors - make them unlockable with achievements or something?
+[ ] menus & ui - textures and io
+    [ ] throttle map loads
+    [x] start
+    [x] map density
+    [ ] 3D maps
+    [ ] customization
+[ ] 3D Maps
+    [ ] ((bespoke))
+    [ ] procedural generation
+        [ ] generate ravines
+        [x] fix margins
+        [x] smooth terrain
+[ ] Review object generation
+    [ ] switch messages to actionbar
+    [ ] new object sets
+    [ ] make no structure blocks spawn
+    [ ] don't leave the edges so empty
+[ ] new player info
+[ ] powerup index 
+[ ] customization options
+[ ] (FEATURE) other gamemodes - teams, etc.
+[ ] spectators affect game 
+    [ ] menu/ui
+    [ ] spectator powers
+[ ] achievements?

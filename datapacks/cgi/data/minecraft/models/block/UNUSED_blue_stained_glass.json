@@ -1,0 +1,35 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "blocks/glass_blue",
+	"highlight": "blocks/holo_overlay"
+    },
+    
+    "elements": [
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 16, 16 ],
+            "shade": true,
+	    "faces": {
+                "down": { "uv": [ 0, 0, 16, 16 ], "texture": "#all" },
+                "up":   { "uv": [ 0, 0, 16, 16 ], "texture": "#all" },
+		"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#all" },
+		"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#all" },
+		"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#all" },
+		"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#all" }
+            }
+        },
+        {   "from": [ 0.01, 0.01, 0.01 ],
+            "to": [ 15.99, 15.99, 15.99 ],
+            "shade": false,
+	    "faces": {
+                "down": { "uv": [ 0, 0, 16, 16 ], "texture": "#highlight" },
+                "up":   { "uv": [ 0, 0, 16, 16 ], "texture": "#highlight" },
+		"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#highlight" },
+		"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#highlight" },
+		"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#highlight"},
+		"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#highlight" }
+            }
+        }
+    ]
+    
+}

@@ -1,0 +1,5 @@
+LICENSE
+
+Please, enjoy the game!
+
+You may use, modify, and distribute this game as you wish, as long as you give credit to the creator and everyone who has worked on it.  See `credits.txt` for a list of contributors.

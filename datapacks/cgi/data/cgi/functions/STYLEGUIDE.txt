@@ -1,0 +1,6 @@
+CGI Datapack style guide
+========================
+
+camelCase is the norm
+use subfolders when appropriate, but not when a single file makes less sense
+avoid excessive selectors; use functions when appropriate
